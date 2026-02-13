@@ -1,4 +1,4 @@
-# Hi there, I'm Vivek Vishwakarma 👋
+# Hi there, I'm Vivek Vishwakarma 
 
 <div align="center">
   
@@ -6,15 +6,15 @@
   
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate developer who loves building innovative solutions and exploring new technologies. Always eager to learn, collaborate, and contribute to meaningful projects.
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm constantly learning and expanding my tech stack
-- 💡 I enjoy solving complex problems with elegant solutions
-- 🤝 I'm open to collaborating on interesting projects
-- 💬 Ask me about anything tech-related!
+-  I'm currently working on exciting projects
+-  I'm constantly learning and expanding my tech stack
+-  I enjoy solving complex problems with elegant solutions
+-  I'm open to collaborating on interesting projects
+-  Ask me about anything tech-related!
 
 ## 🛠️ Tech Stack
 
