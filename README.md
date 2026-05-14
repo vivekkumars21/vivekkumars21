@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vivekvishwakarma&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=vivekkumars21&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-22c55e?style=for-the-badge&logo=handshake&logoColor=white" />
 
@@ -35,12 +35,17 @@ class Vivek:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
@@ -111,13 +116,13 @@ Upcoming 🚀 ━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vivekvishwakarma&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=vivekkumars21&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" height="160" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekvishwakarma&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumars21&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" height="160" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekvishwakarma&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkumars21&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
 
 </div>
 
@@ -138,9 +143,9 @@ Upcoming 🚀 ━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekvishwakarma)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivekvishwakarma)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivek@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveks21/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivekkumars21)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vivekvishwakarma21@outlook.com)
 
 </div>
 
