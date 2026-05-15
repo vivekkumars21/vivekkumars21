@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Vivek+Vishwakarma+👋;Full+Stack+Developer+🌐;AI+%2F+ML+Enthusiast+🤖;BE+IT+%7C+3rd+Year+Student+📚" alt="Typing SVG" />
+font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Vivek+Vishwakarma+👋;Full+Stack+Developer+🌐;AI+%2F+ML+Enthusiast+🤖;BE+IT+%7C+3rd+Year+Student+📚" alt="Typing SVG" />
 
 <br/>
 
