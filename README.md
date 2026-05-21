@@ -89,7 +89,7 @@ class Vivek:
 ## 🗺️ My Learning Roadmap
 
 ```
-2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ✅ Core Programming    — C, Java, Python
   ✅ Web Dev Basics      — HTML, CSS, JavaScript
   ✅ Backend             — Node.js, Flask
@@ -97,7 +97,7 @@ class Vivek:
   ✅ Data Science        — NumPy, Pandas, Matplotlib, Seaborn
   ✅ ML Foundations      — Supervised & Unsupervised Learning
 
-2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2026 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ✅ Deployment          — Vercel, Firebase Hosting
   🔄 Deep Learning       — PyTorch (In Progress)
   🔄 NLP                 — Transformers, Embeddings (In Progress)
