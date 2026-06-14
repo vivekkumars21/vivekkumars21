@@ -18,8 +18,8 @@ class Vivek:
     name       = "Vivek Vishwakarma"
     degree     = "BE in Information Technology"
     year       = "3rd Year"
-    focus      = ["Full Stack Development", "Artificial Intelligence", "Machine Learning"]
-    currently  = ["Learning PyTorch", "Exploring Deep Learning", "Diving into NLP"]
+    focus      = [ "Machine Learning"]
+    currently  = ["Learning PyTorch"]
     goal       = "To build intelligent, scalable products that make a difference 🚀"
     fun_fact   = "I debug with coffee ☕ and curiosity 🔍"
 ```
