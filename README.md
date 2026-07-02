@@ -120,7 +120,7 @@ Upcoming 🚀 ━━━━━━━━━━━━━━━━━━━━━━
 
 | 🎓 Education | BE Information Technology — 3rd Year |
 |---|---|
-| 🎯 Focus | Full Stack Development + AI/ML |
+| 🎯 Focus | AI/ML |
 | 🤝 Open To | Internships, Collaborations, Open Source |
 | 📍 Location | India |
 
