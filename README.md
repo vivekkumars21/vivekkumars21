@@ -20,8 +20,8 @@ class Vivek:
     year       = "3rd Year"
     focus      = "Machine Learning"
     currently  = "Learning PyTorch"
-    goal       = "To build intelligent, scalable products that make a difference 🚀"
-    fun_fact   = "I debug with coffee ☕ and curiosity 🔍"
+    goal       = "To build intelligent, scalable products that make a difference "
+    fun_fact   = "I debug with coffee  and curiosity "
 ```
 
 ---
