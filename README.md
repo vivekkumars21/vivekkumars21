@@ -142,7 +142,7 @@ Modern portfolio showcasing my AI, Machine Learning, and Web Development project
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=vivekkumars21&style=for-the-badge&color=blue)
 
 ### 💡 *"Building intelligent software that solves real-world problems."*
 
