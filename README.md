@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Vivek Vishwakarma
+#  Hello, I'm Vivekkumar Vishwakarma
 
 ### Information Technology Student • AI & Machine Learning Enthusiast
 
@@ -8,11 +8,8 @@
 
 <br>
 
-<a href="https://www.vivekvishwakarma.dev">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/viveks21">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
@@ -36,11 +33,11 @@ I enjoy building intelligent applications that solve real-world problems through
 
 ### 🌱 Currently Working On
 
-- 🤖 Machine Learning & Deep Learning
-- 📊 Data Science & Data Analysis
-- 💻 React-based AI Applications
-- 🛡 AI Security & Computer Vision
-- 📚 Data Structures & Algorithms
+-  Machine Learning & Deep Learning
+-  Data Science & Data Analysis
+-  React-based AI Applications
+-  AI Security & Computer Vision
+-  Data Structures & Algorithms
 
 ---
 
@@ -112,15 +109,6 @@ Modern portfolio showcasing my AI, Machine Learning, and Web Development project
 <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
 
 </div>
-
----
-
-# 🏆 Achievements
-
-- 🥉 3rd Prize — ISTE Ideathon
-- 💼 Tech Head — ISTE Student Chapter
-- 🎓 B.E. Information Technology
-- 🤖 AI & Machine Learning Enthusiast
 
 ---
 
