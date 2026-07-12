@@ -1,87 +1,81 @@
 <div align="center">
 
-# Hello, I'm Vivek Vishwakarma 👋
+# 👋 Hello, I'm Vivek Vishwakarma
 
-### Information Technology Student • AI & Machine Learning
+### Information Technology Student • AI & Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Machine+Learning+%7C+Deep+Learning;Computer+Vision+Enthusiast;React+Developer;Always+learning+something+new" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Machine+Learning+%7C+Data+Science;Computer+Vision+Enthusiast;React+Developer;Always+Learning+New+Technologies" />
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://www.vivekvishwakarma.dev">
 <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<a href="mailto:vivekvishwakarma21@outlook.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4"/>
 </a>
 
+<a href="https://www.vivekvishwakarma.dev">
+<img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🔹 About Me
+# 💫 About Me
 
-I'm an **Information Technology student** passionate about developing intelligent software using **Artificial Intelligence**, **Machine Learning**.
+I'm an **Information Technology student** passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
 
-I enjoy solving real-world problems through data-driven applications while continuously exploring **Deep Learning**, **Computer Vision**, and **AI Security**.
+I enjoy building intelligent applications that solve real-world problems through data, automation, and modern web technologies.
 
-Currently I'm focused on:
+### 🌱 Currently Working On
 
 - 🤖 Machine Learning & Deep Learning
-- 📊 Data Science & Data Visualization
-- 💻 React for AI-powered Web Applications
-- 🛡 AI Security & Research
+- 📊 Data Science & Data Analysis
+- 💻 React-based AI Applications
+- 🛡 AI Security & Computer Vision
+- 📚 Data Structures & Algorithms
 
 ---
 
-## 🔹 Current Focus
-
-- 🌱 Learning Deep Learning
-- 🧠 Building Machine Learning Projects
-- 📈 Improving DSA & Problem Solving
-- 🚀 Developing AI-powered Applications
-- 📚 Exploring MLOps & LLMs
-
----
-
-## 🔹 Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
 
-### 🤖 AI / Data Science
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+### Machine Learning & Data Science
 
 <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn"/>
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge"/>
 
-### 🌐 Web Development
+### Web Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind"/>
 
-### 🛠 Tools
+### Database & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,firebase,mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux"/>
 
 </div>
 
 ---
 
-## 🔹 Featured Projects
+# 🚀 Featured Projects
 
-### 🌱 FarmFresh AI
+## 🌱 FarmFresh AI
 
 AI-powered agriculture platform connecting farmers directly with consumers.
 
@@ -89,7 +83,7 @@ AI-powered agriculture platform connecting farmers directly with consumers.
 
 ---
 
-### 📦 ZDC Hub
+## 📦 ZDC Hub
 
 Supply Chain & Logistics Management Platform.
 
@@ -97,45 +91,64 @@ Supply Chain & Logistics Management Platform.
 
 ---
 
+## 🌐 Personal Portfolio
 
-## 🔹 GitHub Stats
+Modern portfolio showcasing my AI, Machine Learning, and Web Development projects.
+
+🔗 https://www.vivekvishwakarma.dev
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔹 Currently Learning
+# 🏆 Achievements
+
+- 🥉 3rd Prize — ISTE Ideathon
+- 💼 Tech Head — ISTE Student Chapter
+- 🎓 B.E. Information Technology
+- 🤖 AI & Machine Learning Enthusiast
+
+---
+
+# 📚 Currently Learning
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - MLOps
-- LLMs
+- Large Language Models (LLMs)
+- Data Structures & Algorithms
 
 ---
 
-## 🔹 Connect with Me
+# 📫 Connect With Me
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.vivekvishwakarma.dev">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel"/>
+<a href="mailto:vivekvishwakarma21@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-0D1117?style=for-the-badge&logo=microsoftoutlook"/>
 </a>
 
 </div>
@@ -144,7 +157,9 @@ Supply Chain & Logistics Management Platform.
 
 <div align="center">
 
-### "Building intelligent software that solves real-world problems."
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
+
+### 💡 *"Building intelligent software that solves real-world problems."*
 
 ⭐ Thanks for visiting my profile!
 
