@@ -142,7 +142,10 @@ Modern portfolio showcasing my AI, Machine Learning, and Web Development project
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=vivekkumars21&style=for-the-badge&color=blue)
+
+
+<img src="https://komarev.com/ghpvc/?username=vivekkumars21&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
 
 ### 💡 *"Building intelligent software that solves real-world problems."*
 
