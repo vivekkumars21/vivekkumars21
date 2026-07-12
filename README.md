@@ -97,13 +97,13 @@ Modern portfolio showcasing my AI, Machine Learning, and Web Development project
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vivekkumars21&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumars21&layout=compact&theme=github_dark&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vivekkumars21&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -141,9 +141,6 @@ Modern portfolio showcasing my AI, Machine Learning, and Web Development project
 ---
 
 <div align="center">
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=vivekkumars21&label=Profile%20Views&style=for-the-badge&color=58A6FF)
 
 ### 💡 *"Building intelligent software that solves real-world problems."*
 
