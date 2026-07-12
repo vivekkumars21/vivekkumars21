@@ -34,10 +34,7 @@ I enjoy building intelligent applications that solve real-world problems through
 ### 🌱 Currently Working On
 
 -  Machine Learning & Deep Learning
--  Data Science & Data Analysis
--  React-based AI Applications
 -  AI Security & Computer Vision
--  Data Structures & Algorithms
 
 ---
 
