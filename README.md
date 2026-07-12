@@ -47,7 +47,7 @@ I enjoy building intelligent applications that solve real-world problems through
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
 
 ### Machine Learning & Data Science
 
