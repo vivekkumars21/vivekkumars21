@@ -1,138 +1,142 @@
 <div align="center">
 
+# Hello, I'm Vivek Vishwakarma 👋
 
-<br/>
+### Information Technology Student • AI & Machine Learning
 
-<img src="https://komarev.com/ghpvc/?username=vivekkumars21&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-22c55e?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Machine+Learning+%7C+Deep+Learning;Computer+Vision+Enthusiast;React+Developer;Always+learning+something+new" />
+
+<br>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🔹 About Me
 
-```python
-class Vivek:
-    name       = "Vivek Vishwakarma"
-    degree     = "BE in Information Technology"
-    year       = "3rd Year"
-    focus      = "Machine Learning"
-    currently  = "Learning PyTorch"
-    goal       = "To build intelligent, scalable products that make a difference "
-    fun_fact   = "I debug with coffee  and curiosity "
-```
+I'm an **Information Technology student** passionate about developing intelligent software using **Artificial Intelligence**, **Machine Learning**.
+
+I enjoy solving real-world problems through data-driven applications while continuously exploring **Deep Learning**, **Computer Vision**, and **AI Security**.
+
+Currently I'm focused on:
+
+- 🤖 Machine Learning & Deep Learning
+- 📊 Data Science & Data Visualization
+- 💻 React for AI-powered Web Applications
+- 🛡 AI Security & Research
 
 ---
 
-## 🛠️ Tech Stack
+## 🔹 Current Focus
+
+- 🌱 Learning Deep Learning
+- 🧠 Building Machine Learning Projects
+- 📈 Improving DSA & Problem Solving
+- 🚀 Developing AI-powered Applications
+- 📚 Exploring MLOps & LLMs
+
+---
+
+## 🔹 Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css"/>
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 🤖 AI / Data Science
 
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
----
+<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv"/>
 
-### ⚙️ Backend & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🌐 Web Development
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind"/>
 
----
+### 🛠 Tools
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-### 🤖 AI / ML & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
----
-
-### ☁️ Deployment & Cloud
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## 🧠 What I'm Learning Right Now
-
-```
-🔥 PyTorch  →  Building neural networks from scratch
-
-```
-
----
-
-## 🗺️ My Learning Roadmap
-
-```
-2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ✅ Core Programming    — C, Java, Python
-  ✅ Web Dev Basics      — HTML, CSS, JavaScript
-  ✅ Databases           — MySQL,nFirebase
-  ✅ Data Science        — NumPy, Pandas, Matplotlib, Seaborn
-  ✅ ML Foundations      — Supervised & Unsupervised Learning
-
-Upcoming 🚀 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ⏳ Deep Learning       — PyTorch (In Progress)
-  ⏳ LLM Fine-tuning     — HuggingFace, LoRA
-  ⏳ MLOps               — Model Deployment at scale
-  ⏳ Full-stack AI Apps  — AI-powered SaaS products
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vivekkumars21&show_icons=true&theme=tokyonight&border_radius=12&hide_border=true" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkumars21&layout=compact&theme=tokyonight&border_radius=12&hide_border=true" height="160" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkumars21&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,firebase,mysql"/>
 
 </div>
 
 ---
 
-## 🏆 Highlights
+## 🔹 Featured Projects
 
-| 🎓 Education | BE Information Technology — 3rd Year |
-|---|---|
-| 🎯 Focus | AI/ML |
-| 🤝 Open To | Internships, Collaborations, Open Source |
-| 📍 Location | India |
+### 🌱 FarmFresh AI
+
+AI-powered agriculture platform connecting farmers directly with consumers.
+
+**Tech:** React • Python • Machine Learning
 
 ---
 
-## 📬 Connect With Me
+### 📦 ZDC Hub
+
+Supply Chain & Logistics Management Platform.
+
+**Tech:** React • SQL • Supabase
+
+---
+
+
+## 🔹 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viveks21/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivekkumars21)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vivekvishwakarma21@outlook.com)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🔹 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- MLOps
+- LLMs
+
+---
+
+## 🔹 Connect with Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel"/>
+</a>
 
 </div>
 
@@ -140,8 +144,8 @@ Upcoming 🚀 ━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
-⭐ **If you like my work, consider starring my repos — it keeps me motivated!** ⭐
+### "Building intelligent software that solves real-world problems."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" />
+⭐ Thanks for visiting my profile!
 
 </div>
