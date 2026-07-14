@@ -128,7 +128,7 @@ Modern portfolio showcasing my AI, Machine Learning, and Web Development project
 <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://linkedin.com/in/viveks21">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin"/>
 </a>
 
