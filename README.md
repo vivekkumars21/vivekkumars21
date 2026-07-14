@@ -2,7 +2,7 @@
 
 #  Hello, I'm Vivekkumar Vishwakarma
 
-### Information Technology Student • AI & Machine Learning Enthusiast
+### Information Technology Student • Software devloper
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Machine+Learning+%7C+Data+Science;Computer+Vision+Enthusiast;React+Developer;Always+Learning+New+Technologies" />
 
