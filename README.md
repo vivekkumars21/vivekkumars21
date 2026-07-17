@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:vivekvishwakarma21@outlook.com">
+<a href="mailto:vivekvishwakarma.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4"/>
 </a>
 
