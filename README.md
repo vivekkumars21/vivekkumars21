@@ -36,7 +36,6 @@ I enjoy solving real-world problems by combining **AI models**, **backend engine
 
 - 🤖 Machine Learning
 - 🧠 Deep Learning
-- 👁️ Computer Vision
 - ⚡ FastAPI Backend Development
 - 🌐 React Applications
 - 🚀 MLOps & Generative AI
@@ -56,13 +55,12 @@ I enjoy solving real-world problems by combining **AI models**, **backend engine
 <img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn"/>
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv"/>
 <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge"/>
 
 ### Backend & Web
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nodejs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs"/>
 
 ### Database & Tools
 
